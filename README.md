@@ -2,7 +2,7 @@
 <meta charset="utf-8"/>
 
 <body>
-<h1>mpourag/mpourag  (HOTMAIL)  (HOTMAIL)</h1>
+<h1>mpourag/mpourag  (HOTMAIL)</h1>
 
 - 👋 Hi, I’m @mpourag@hotgmail.com<br/>
 - 👀 I’m interested in ...<br/>
